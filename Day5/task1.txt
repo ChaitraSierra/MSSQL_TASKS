@@ -1,0 +1,2 @@
+Task 1:
+Create an AFTER DELETE trigger on Customers that stores deleted customer details into a new table ArchivedCustomers. 
