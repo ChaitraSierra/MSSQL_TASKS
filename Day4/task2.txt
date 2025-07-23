@@ -1,0 +1,2 @@
+Task 2:
+Write a stored procedure that takes @MeterId, @ReadingDateTime, and @EnergyConsumed as input, inserts a new reading, and handles errors using TRY...CATCH. If successful, return a message.
