@@ -1,0 +1,2 @@
+Task 1:
+Create a stored procedure that accepts a @CustomerId as input and returns all readings (MeterId, ReadingDateTime, EnergyConsumed) for that customer.
