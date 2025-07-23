@@ -1,0 +1,7 @@
+Write a query to 
+Fetch all smart meter readings where:
+•	EnergyConsumed is between 10 and 50 kWh
+•	ReadingDateTime is between '2024-01-01' and '2024-12-31'
+•	Exclude meters installed after '2024-06-30'
+
+ 
