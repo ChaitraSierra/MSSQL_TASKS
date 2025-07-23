@@ -1,0 +1,4 @@
+For each customer, calculate:
+•	Average energy consumed per reading
+•	Maximum energy consumed in a single reading.
+Only include readings from the current year.
