@@ -1,0 +1,2 @@
+Task 3:
+For each meter, calculate the cumulative sum of energy consumed ordered by ReadingDateTime.
