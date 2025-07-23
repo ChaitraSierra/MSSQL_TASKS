@@ -1,0 +1,2 @@
+Task 2:
+List meters with readings over 30 kWh in last 30 days along with customer names.
