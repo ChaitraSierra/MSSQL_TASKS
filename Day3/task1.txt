@@ -1,0 +1,2 @@
+Task 1:
+Find the number of meters installed in each region, but only show regions that have more than 3 meters. 
