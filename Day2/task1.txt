@@ -1,0 +1,2 @@
+Task 1:
+Find pairs of customers in the same region (exclude pairing a customer with themselves).
